@@ -16,7 +16,7 @@
             <li> <a href="index.html">Home</a></li>
             <li> <a>About</a>
                 <ul>
-                    <li><a href=CVskills.html">CV/Skill</a></li>
+                    <li><a href="CVskills.html">CV/Skill</a></li>
                     <li><a href="artist.html">Artist</a></li>
                     <li><a href="project.html">Projects</a></li>
                     </li>
