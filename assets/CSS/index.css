@@ -6,6 +6,17 @@
     bottom: 8px;
 }
 
+.container-box { 
+  background-color: black;
+  position: relative;
+  top: 22px;
+  left: 30px;
+  width: 95%;
+  height: 90vh;
+  background: rgba(0, 0, 0, 0.8);
+  border-radius: 20px;
+}
+
 .flip-box {
     position: relative;
     top: 45px;

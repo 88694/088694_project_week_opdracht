@@ -5,8 +5,9 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=, initial-scale=1.0">
     <title>Projectweek</title>
+    <link rel="icon" href="./assets/images/website-icon.png" type="image/icon type">
     <link rel="stylesheet" href="assets/CSS/style.css">
-    <link rel="stylesheet" href="assets/CSS/index.css">
+    <link rel="stylesheet" href="assets/CSS/contact.css">
 </head>
 
 <body>
