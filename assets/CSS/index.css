@@ -1,9 +1,9 @@
 .minion-pic {
     position: relative;
     width: 100%;
-    height: 85vh;
+    height: 75vh;
     border-radius: 20px;
-    bottom: 5px;
+    bottom: 8px;
 }
 
 .flip-box {
