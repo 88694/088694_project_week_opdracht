@@ -75,3 +75,11 @@ ul li:hover ul li {
     z-index: 0;
 }
 
+.footer { 
+    position: relative;
+    width: 100%;
+    height: 30vh;
+    top: 100px; 
+    background-color: rgb(28, 27, 27); 
+    color: white;
+}
