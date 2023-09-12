@@ -19,10 +19,11 @@
 
 .flip-box {
     position: relative;
-    top: 45px;
+    top: 55px;
+    left: 8rem;
     background-color: transparent;
     margin: 4rem;
-    width: 90%;
+    width: 70%;
     height: 200px;
     perspective: 1000px;
     border-radius: 20px;
