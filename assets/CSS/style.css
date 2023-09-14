@@ -86,16 +86,24 @@ ul li:hover ul li {
 
 
 }
-
+ 
 .icon-pics {
+    width: 4%;
+    transform: 0.35s;
+} 
+
+.icon-pics:hover {
+    position: relative;
+    bottom: 1rem;
+}
+
+.link {
     position: relative;
     padding: 1rem;
     margin-left: 40px;
     top: 3rem;
-    width: 4%;
     left: 37rem;
     background-color: violet;
     border-radius: 20px;
-    height: 5.8vh;
+    height: 20vh;
 }
-

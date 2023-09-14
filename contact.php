@@ -47,6 +47,10 @@
    
     </div>
 </div>
+    <div class="footer">
+        <a href="contact.php" class="link"><img src="assets/images/discord.png" alt="" class="icon-pics"></a>
+        <a href="contact.php" class="link"><img src="assets/images/outlook.png" alt="" class="icon-pics"></a>
+    </div>
 </body>
 
 </html>
