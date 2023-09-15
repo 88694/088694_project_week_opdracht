@@ -30,7 +30,7 @@
 
     <div class="main-contact">
        
-    <form method="POST">
+    <form method="POST" class="contact-box">
             <h1>Contact Us</h1>
             <div class="info">
                 <input class="fname" type="text" name="name" placeholder="Full name">
@@ -40,9 +40,12 @@
             </div>
             <p>Message</p>
             <div>
-                <textarea rows="4" name="message"></textarea>
+                <textarea rows="4" name="message" id="msg"></textarea>
             </div>
-            <button type="submit">Submit</button>
+            <div class="wrapper">
+                <button type="submit" class="button">Submit</button>
+            </div>
+            
         </form>
    
     </div>
