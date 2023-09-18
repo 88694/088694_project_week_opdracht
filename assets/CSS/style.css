@@ -4,7 +4,7 @@
 }
 
 body {
-    background-image: linear-gradient(rgba(0, 0, 0, 0.35), rgba(0, 0, 0, 0.75)), url(../images/background.jpg);
+    background: linear-gradient(to top, #000000bc, #000000bc),url(../images/background.png);
     background-repeat: no-repeat;
     background-blend-mode: darken;
     height: 140vh;
